@@ -3,11 +3,18 @@ Algunos ejercicios, ejemplos y proyectos de ciencia de datos realizados por mi u
 Todos, por ahora, están en Python, y los paquetes utilizados son:
 
   -NumPy
+  
   -SciPy
+	
   -Pandas
+	
   -Matplotlib
+	
   -Seaborn
+	
   -SKlearn
+	
   -Tensorflow.keras
+	
   -Imblearn
 
